@@ -714,7 +714,7 @@ total space       28232564</screen>
     For more information, see <xref linkend="cha.ceph.erasure"/>.
    </para>
    <warning>
-    <title>More Than Two Replica Recommended</title>
+    <title>More Than Two Replicas Recommended</title>
     <para>
      We strongly advise against using only 2 replicas. In the event of one
      failed OSD, the failure of the second OSD because of a high workload
